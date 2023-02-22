@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="RB_348" size="1.000000 0.988543" />
+    <ImageTarget name="RB321" size="1.000000 0.985960" />
+    <ImageTarget name="RB323" size="1.000000 1.005696" />
+    <ImageTarget name="RB350" size="1.000000 0.988923" />
+    <ImageTarget name="RB317" size="1.000000 0.982514" />
     <ImageTarget name="RB434" size="1.000000 0.750000" />
     <ImageTarget name="RB428" size="1.000000 0.750000" />
     <ImageTarget name="RB425" size="1.000000 0.750000" />
@@ -13,10 +18,8 @@
     <ImageTarget name="RB411" size="1.000000 0.750000" />
     <ImageTarget name="RB409" size="1.000000 0.750000" />
     <ImageTarget name="RB404" size="1.000000 0.750000" />
-    <ImageTarget name="RB350" size="1.000000 0.750000" />
     <ImageTarget name="RB328" size="1.000000 0.750000" />
     <ImageTarget name="RB326" size="1.000000 0.750000" />
-    <ImageTarget name="RB323" size="1.000000 0.750000" />
     <ImageTarget name="RB319" size="1.000000 0.750000" />
     <ImageTarget name="RB315" size="1.000000 0.750000" />
     <ImageTarget name="RB313" size="1.000000 0.750000" />
@@ -45,10 +48,8 @@
     <ImageTarget name="RB316" size="1.000000 0.750000" />
     <ImageTarget name="RB324" size="1.000000 0.750000" />
     <ImageTarget name="RB322330" size="1.000000 0.750000" />
-    <ImageTarget name="RB321" size="1.000000 0.750000" />
     <ImageTarget name="RB320" size="1.000000 0.750000" />
     <ImageTarget name="RB318" size="1.000000 0.750000" />
-    <ImageTarget name="RB317" size="1.000000 0.750000" />
     <ImageTarget name="RB314" size="1.000000 0.750000" />
     <ImageTarget name="RB256" size="1.000000 1.333333" />
     <ImageTarget name="RB254" size="1.000000 1.333333" />
