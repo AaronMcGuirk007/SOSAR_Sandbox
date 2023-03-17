@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 /*
  * Utilizes the SceneManagement import, manages how scenes
@@ -11,8 +12,11 @@ using UnityEngine.SceneManagement;
  * Author(s): SoS Team Spring 2023
  * 
  */
+
 public class SceneChanger : MonoBehaviour
 {
+
+    
     /*
      * On Awake, make the object persistent
      */
